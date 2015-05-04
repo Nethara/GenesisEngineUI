@@ -1,0 +1,26 @@
+F:\Programming\Genesis Engine UI\Genesis Engine UI\bin\Debug\Genesis Engine UI.exe.config
+F:\Programming\Genesis Engine UI\Genesis Engine UI\bin\Debug\Genesis Engine UI.exe
+F:\Programming\Genesis Engine UI\Genesis Engine UI\bin\Debug\Genesis Engine UI.pdb
+F:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis Engine UI.csprojResolveAssemblyReference.cache
+F:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis_Engine_UI.Properties.Resources.resources
+F:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis Engine UI.csproj.GenerateResource.Cache
+F:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis Engine UI.exe
+F:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis Engine UI.pdb
+F:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis_Engine_UI.MainForm.resources
+F:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis_Engine_UI.ProjectWizardForm.resources
+F:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis_Engine_UI.ScriptNamingForm.resources
+F:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis_Engine_UI.ActorForm.resources
+F:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis_Engine_UI.SceneForm.resources
+G:\Programming\Genesis Engine UI\Genesis Engine UI\bin\Debug\Genesis Engine UI.exe.config
+G:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis Engine UI.exe
+G:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis Engine UI.pdb
+G:\Programming\Genesis Engine UI\Genesis Engine UI\bin\Debug\Genesis Engine UI.exe
+G:\Programming\Genesis Engine UI\Genesis Engine UI\bin\Debug\Genesis Engine UI.pdb
+G:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis Engine UI.csprojResolveAssemblyReference.cache
+G:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis_Engine_UI.ActorForm.resources
+G:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis_Engine_UI.MainForm.resources
+G:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis_Engine_UI.ProjectWizardForm.resources
+G:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis_Engine_UI.Properties.Resources.resources
+G:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis_Engine_UI.SceneForm.resources
+G:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis_Engine_UI.ScriptNamingForm.resources
+G:\Programming\Genesis Engine UI\Genesis Engine UI\obj\Debug\Genesis Engine UI.csproj.GenerateResource.Cache
